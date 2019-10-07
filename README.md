@@ -6,3 +6,6 @@ mdr946
 mdr945
 mdr944
 mdr943
+mdr942
+mdr941
+mdr 940
